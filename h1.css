@@ -1,0 +1,11 @@
+h1 { 
+    color: rgb(242, 178, 250); 
+    font-style:italic;
+    font-weight: bold;
+}
+body {
+    color:rgb(0, 136, 255);
+    height: 200wh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
